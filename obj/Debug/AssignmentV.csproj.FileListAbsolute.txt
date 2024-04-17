@@ -1,0 +1,7 @@
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\obj\Debug\AssignmentV.csproj.AssemblyReference.cache
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\obj\Debug\AssignmentV.csproj.CoreCompileInputs.cache
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\bin\Debug\AssignmentV.exe.config
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\bin\Debug\AssignmentV.exe
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\bin\Debug\AssignmentV.pdb
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\obj\Debug\AssignmentV.exe
+F:\Koulu\Kolmosvuos\Windows_Ohjelmoitni\AssignmentV\obj\Debug\AssignmentV.pdb

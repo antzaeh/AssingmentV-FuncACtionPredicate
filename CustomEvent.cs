@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 
 namespace AssingmentV
 {
-    internal class CustomEvent
+    public class CustomEvent
     {
-        readonly string name;
-        string type { get; set; }
-        string location { get; set; }
-        DateTime date { get; set; }
-        double price { get; set; }
+       public readonly string Name;
+       public string Type { get; set; }
+       public string Location { get; set; }
+        public DateTime Date { get; set; }
+       public double Price { get; set; }
+
 
         public CustomEvent()
         {
@@ -22,19 +23,16 @@ namespace AssingmentV
 
         public CustomEvent(string name, string type, string location, DateTime date, double price)
         {
-            this.name = name;
-            this.type = type;
-            this.location = location;
-            this.date = date;
-            this.price = price;
+            this.Name = name;
+            this.Type = type;
+            this.Location = location;
+            this.Date = date;
+            this.Price = price;
         }
-        public string Search(string name, string type, string location, DateTime date, double price)
-        {
-            return null;
-        }
+
         public override string ToString()
         {
-            return $"{name} - {type} - {location} - {date:yyyy-MM-dd} - {price}";
+            return $"{Name} - {Type} - {Location} - {Date:yyyy-MM-dd} - {Price}";
         }
     }
 }
